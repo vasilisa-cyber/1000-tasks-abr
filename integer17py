@@ -1,0 +1,3 @@
+n = int(input("Введите число: "))
+hundreds = (n // 100) % 10
+print(hundreds)
